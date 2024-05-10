@@ -42,14 +42,12 @@ hr{
 }
 @media (max-width: 500px) {
     .roseannlogo{
-        width: 150px;
+        width: 77%;
     }
     .navigaatio ul{
         flex-direction: column;
         align-items: center;
         gap: 0em;
     }
-    .navigaatio a{
-        font-size: 15px;
-    }
+
 }

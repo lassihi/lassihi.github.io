@@ -31,7 +31,7 @@
     margin-top: 0px;
     height: 20px;
 }
-@media (max-width: 500px) {
+@media (max-width: 530px) {
     .teksti{
         padding:4px;
         display: flex;
@@ -47,5 +47,9 @@
     }
     #teksti2 div{
         padding: 0;
+    }
+    .sisalto_kuvat img{
+        width: 90vw;
+        height: 90vw;
     }
 }
