@@ -20,6 +20,7 @@
     width: 100%;
     flex-wrap: wrap;
     justify-content: center;
+    padding-bottom: 40px;
 }
 .sisalto_kuvat img{
     width: 500px;
