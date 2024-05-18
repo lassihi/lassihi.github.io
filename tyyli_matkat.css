@@ -44,7 +44,7 @@
 }
 @media (max-width: 530px) {
     .teksti{
-        padding:4px;
+        padding: 10px;
         display: flex;
         flex-direction: column;
         align-items: center;
